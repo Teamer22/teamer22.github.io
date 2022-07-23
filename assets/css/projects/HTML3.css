@@ -1,0 +1,64 @@
+/* ObecneFormatovani */
+.html3-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.formular {
+    padding: 0 40px;
+    margin: 0;
+    width: 160px;
+}
+
+input {
+    padding: 4px;
+    height: 15px;
+    width: 70px;
+    color: #ffffff;
+    background: #2f3136;
+    border: 1px solid #2a2d31;
+    box-shadow: none;
+    outline: none;
+}
+
+input[type='radio'] {
+    padding: 0 !important;
+    height: 13px !important;
+    width: 13px !important;
+    color: #ffffff;
+    background: #2f3136;
+    border: 1px solid #2a2d31;
+    box-shadow: none;
+    outline: none;
+}
+
+input[type='checkbox'] {
+    padding: 0 !important;
+    height: 13px !important;
+    width: 13px !important;
+    color: #ffffff;
+    background: #2f3136;
+    border: 1px solid #2a2d31;
+    box-shadow: none;
+    outline: none;
+}
+
+/* VstupyFormatovani */
+#formkrestnijmeno,
+#formprijmeni,
+#formtelefon,
+#formemail,
+#formheslo {
+    width: 100%;
+}
+
+.inputbutton {
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+}
